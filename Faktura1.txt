@@ -1,0 +1,17 @@
+Faktura
+
+NIP : 156
+Adres : Olimpijska
+List of Products : 
+
+Title           Price
+PaperForBDSM       10
+PaperForBDSM       10
+PaperForBDSM       10
+ZombieCutterV12   400
+ZombieCutterV12   400
+ZombieCutterV12   400
+
+Tax : 0.19%
+Total : 1463.7$
+Date Mon Apr 26 21:42:09 CEST 2021
